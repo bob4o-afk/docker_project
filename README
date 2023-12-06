@@ -1,4 +1,3 @@
-```markdown
 # Docker project
 
 ## Overview
