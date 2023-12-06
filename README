@@ -15,13 +15,3 @@
 |-- /db
 |   |-- Dockerfile
 |-- docker-compose.yml
-
-
-
-
-
-
-
-image_name: bob4o_image
-container_mysql : bob4o-container - 75ae8a34989a0bd4789a35b0d10f5fc9517bcb36a15057eef527a3dc3380b5b4
-container_rabbit : bob4o-container_2 - 3c6cc523bdb6883528e78aeb22ac54576d1942d4ce44f5151f9cfa7b3485ffc8
